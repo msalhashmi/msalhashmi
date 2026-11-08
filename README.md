@@ -5,14 +5,22 @@
 
 <div align="center">
 
-# Hi, I'm Mohannad Alhashmi 👋
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Mohannad%20Alhashmi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Cybersecurity&descAlignY=58&descSize=17"
+  width="100%"
+  alt="Blue technology-themed profile banner"
+/>
 
 ### Computer Engineering Student | Cybersecurity & Network Security Enthusiast
 
 Building practical projects at the intersection of **software, systems, networks, and security**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-msalhashmi-181717?style=for-the-badge&logo=github)](https://github.com/msalhashmi)
-[![Location](https://img.shields.io/badge/Location-Saudi%20Arabia-006C35?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Saudi+Arabia/)
+[![Focus](https://img.shields.io/badge/Focus-Cybersecurity-0A7EA4?style=for-the-badge&logo= kalilinux&logoColor=white)](https://github.com/msalhashmi)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve;Exploring+Cybersecurity+%26+Network+Security;Turning+curiosity+into+practical+projects" alt="Animated typing introduction" />
 
 </div>
 
@@ -89,6 +97,15 @@ A few areas where I'm applying what I learn:
 - Python and C/C++ for systems-oriented problem solving.
 - Computer architecture and embedded systems.
 
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=msalhashmi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" alt="GitHub account statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalhashmi&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most used programming languages" />
+
+</div>
+
 ## 🎯 My Approach
 
 **Learn → Build → Test → Break → Troubleshoot → Improve**
@@ -101,8 +118,10 @@ I believe strong engineering skills come from curiosity, consistency, and practi
 
 ### Let's connect and build something meaningful.
 
-[![GitHub](https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msalhashmi)
+[![Explore my repositories](https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msalhashmi)
 
 <sub>Always learning. Always building. Always improving. 🚀</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" width="100%" alt="Decorative blue technology footer" />
 
 </div>
