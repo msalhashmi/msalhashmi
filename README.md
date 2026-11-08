@@ -1,16 +1,23 @@
-## Hi there 👋
+# ⚡ Mohannad Alhashmi
 
-<!--
-**msalhashmi/msalhashmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Computer Engineering Student & System Security Enthusiast** 📍 Makkah, Saudi Arabia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+* 🎓 Computer Engineering student at **Umm Al-Qura University**.
+* 🛠️ Passionate about **Low-Level System Programming**, **Hardware Prototyping** (ESP32 / Microcontrollers), and **Cybersecurity Audit**.
+* ⚡ Deep-diving into **Embedded Firmware**, **Network Protocols**, and **Reverse Engineering**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** C, C++, Python, RISC-V Assembly, MIPS, SQL
+* **Hardware & Systems:** ESP32, Arduino, Microcontrollers, Digital Logic Design (Logisim), KiCad, Linux / Dual-Boot Environments
+* **Tools & Frameworks:** VS Code, Git & GitHub Actions, Scapy, PyCharm, Overleaf LaTeX
+
+---
+
+### 🌐 Connect & Find Me
+* **GitHub:** [msalhashmi](https://github.com/msalhashmi)
