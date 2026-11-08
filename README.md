@@ -16,7 +16,6 @@
 Building practical projects at the intersection of **software, systems, networks, and security**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-msalhashmi-181717?style=for-the-badge&logo=github)](https://github.com/msalhashmi)
-[![Focus](https://img.shields.io/badge/Focus-Cybersecurity-0A7EA4?style=for-the-badge&logo= kalilinux&logoColor=white)](https://github.com/msalhashmi)
 
 <br/>
 
